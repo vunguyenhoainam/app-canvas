@@ -55,6 +55,7 @@ export default function DesignCanvas() {
             />
             <div className="list-color">
                 <p>Select Color</p>
+                
                 {
                     color.map((item, key) => 
                         <div 
